@@ -2,6 +2,8 @@
 
 Este repositório contém a política de privacidade do aplicativo Simule Agro, configurada para ser hospedada no GitHub Pages.
 
+- Domain: https://eamnicoletti.github.io/simule-agro-privacy-policy/
+
 ## 📋 O que está incluído
 
 - `index.html` - Página principal da política de privacidade
